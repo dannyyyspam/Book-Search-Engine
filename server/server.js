@@ -1,10 +1,25 @@
 const express = require("express");
+const mongoose = require("mongoose");
 const path = require("path");
 const db = require("./config/connection");
 const { ApolloServer } = require("apollo-server-express");
 const { typeDefs, resolvers } = require("./schemas");
 const { authMiddleware } = require("./utils/auth");
 //const routes = require('./routes');
+
+const uri =
+  "mongodb+srv://dannyyyspam:Yhbylnb8@cluster0.0hbfn88.mongodb.net/?retryWrites=true&w=majority";
+
+async function connect() {
+  try {
+    await mongoose.connect(uri);
+    console.log("Connected to MongoDB");
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+connect();
 
 const app = express();
 const PORT = process.env.PORT || 3001;
