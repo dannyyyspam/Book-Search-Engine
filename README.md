@@ -1,7 +1,9 @@
-<h1 align="center">(MERN Challenge: Book Search Engine</h1>
+<h1 align="center">MERN Challenge: Book Search Engine</h1>
 
 ## Table of Contents
+
 🔎
+
 - [Description](#description)
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
@@ -15,16 +17,20 @@
 
 This application allows users to search for new books from Google's Book API. Users can log in to save the book they would like to purchase, as well as to remove the books from their library.
 
-## User Story 
+## User Story
+
 👨‍💻
+
 ```md
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 ```
 
-## Acceptance Criteria 
+## Acceptance Criteria
+
 ✅
+
 ```md
 GIVEN a text editor web application
 WHEN I open my application in my editor
@@ -54,8 +60,9 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Technology:
-🦾
-Project is created with:
+
+🦾 <br>
+Project is created with: <br>
 ![Technologies](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript&logoColor=white)
@@ -67,7 +74,8 @@ Project is created with:
 - Apollo Server
 
 ## Installation
-💾
+
+💾 <br>
 To run this project, install it locally using npm:
 
 ```
@@ -75,7 +83,8 @@ npm install
 ```
 
 ## Usage
-💻
+
+💻 <br>
 After installing npm packages, the application will be invoked by using the following command:
 
 ```
@@ -109,10 +118,6 @@ npm run develop
   git push heroku main
   heroku open
   ```
-
-#### App Screenshot
-
-![Screenshot](/client/public/GBS.png)
 
 ## License
 
