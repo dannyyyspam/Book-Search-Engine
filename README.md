@@ -93,7 +93,7 @@ npm run develop
 
 #### Heroku Deployment
 
-[Click me to see app!](https://book-search-engine-2022.herokuapp.com/)
+[Click me to see app!]()
 
 - Create heroku app
 
