@@ -9,8 +9,8 @@
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Technology](#Technology)
 - [Installation](#installation)
-- [Screenshots](#Screenshots)
 - [Usage](#usage)
+- [Screenshots](#Screenshots)
 - [License](#license)
 - [Contribution](#contribution)
 
@@ -122,6 +122,10 @@ npm run develop
 
 ## Screenshots
 📸
+
+![][1]![][2]![][3]
+
+---
 
 [1]: https://raw.githubusercontent.com/dannyyyspam/Book-Search-Engine/main/images/1.gif
 [2]: https://raw.githubusercontent.com/dannyyyspam/Book-Search-Engine/main/images/2.gif
