@@ -121,17 +121,15 @@ npm run develop
 
 ## Screenshots 📸
 
-|<center><b></b>|<center><b></b>|
+|<center><b>1</b>|<center><b>2</b>|<center><b>1</b>
 -|-
-![][1]|![][2]
-|<center><b></b>|
-![][3]
+![][1]|![][2]|![][3]
+
 ___
 
-[3]:
-[4]:
-[5]:
-
+[1]:https://raw.githubusercontent.com/dannyyyspam/Book-Search-Engine/main/images/1.gif
+[2]:https://raw.githubusercontent.com/dannyyyspam/Book-Search-Engine/main/images/2.gif
+[3]:https://raw.githubusercontent.com/dannyyyspam/Book-Search-Engine/main/images/3.gif
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
